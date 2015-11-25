@@ -1,6 +1,8 @@
 hexo-multilingual
 =================
 
+[![Join the chat at https://gitter.im/ahaasler/hexo-multilingual](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ahaasler/hexo-multilingual?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/ahaasler/hexo-multilingual.svg?branch=master)](https://travis-ci.org/ahaasler/hexo-multilingual)
 [![NPM version](https://badge.fury.io/js/hexo-multilingual.svg)](http://badge.fury.io/js/hexo-multilingual)
 [![Code Climate](https://codeclimate.com/github/ahaasler/hexo-multilingual/badges/gpa.svg)](https://codeclimate.com/github/ahaasler/hexo-multilingual)
